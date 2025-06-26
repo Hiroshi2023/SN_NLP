@@ -1,0 +1,17 @@
+deep_translator
+fitz
+fpdf
+groq
+langchain_core
+langchain_groq
+langsmith
+Pillow==
+python-dotenv
+pyttsx3
+Requests
+streamlit
+streamlit_authenticator
+streamlit_lottie
+streamlit_option_menu
+torch
+transformers
