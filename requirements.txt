@@ -5,7 +5,7 @@ groq
 langchain_core
 langchain_groq
 langsmith
-Pillow==
+Pillow
 python-dotenv
 pyttsx3
 Requests
